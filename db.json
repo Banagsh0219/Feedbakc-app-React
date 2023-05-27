@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "what a review",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "maza aya humy to",
+      "rating": 9,
+      "id": 2
+    },
+    {
+      "text": "Made by Bilawal Hussain",
+      "rating": 10,
+      "id": 3
+    }
+  ]
+}
